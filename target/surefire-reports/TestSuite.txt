@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 8, Errors: 0, Skipped: 5, Time elapsed: 1.252 s <<< FAILURE! - in TestSuite
+launchApplication(rahulshettyacademy.tests.ErrorValidationsTest)  Time elapsed: 0.571 s  <<< FAILURE!
+java.io.FileNotFoundException: C:\Users\TRIDEEP CHAKRABORTY\Downloads\SeleniumFrameworkDesign\SeleniumFrameworkDesign\src\main\java\rahulshettyacademy\resources\GlobalData.properties (The system cannot find the path specified)
+
+tearDown(rahulshettyacademy.tests.ErrorValidationsTest)  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.close()" because "this.driver" is null
+
+launchApplication(rahulshettyacademy.tests.ErrorValidationsTest)  Time elapsed: 0.008 s  <<< FAILURE!
+java.io.FileNotFoundException: C:\Users\TRIDEEP CHAKRABORTY\Downloads\SeleniumFrameworkDesign\SeleniumFrameworkDesign\src\main\java\rahulshettyacademy\resources\GlobalData.properties (The system cannot find the path specified)
+
+tearDown(rahulshettyacademy.tests.ErrorValidationsTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.close()" because "this.driver" is null
+
+launchApplication(rahulshettyacademy.tests.SubmitOrderTest)  Time elapsed: 0.272 s  <<< FAILURE!
+java.io.FileNotFoundException: C:\Users\TRIDEEP CHAKRABORTY\Downloads\SeleniumFrameworkDesign\SeleniumFrameworkDesign\src\main\java\rahulshettyacademy\resources\GlobalData.properties (The system cannot find the path specified)
+
+tearDown(rahulshettyacademy.tests.SubmitOrderTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.close()" because "this.driver" is null
+
+launchApplication(rahulshettyacademy.tests.SubmitOrderTest)  Time elapsed: 0.002 s  <<< FAILURE!
+java.io.FileNotFoundException: C:\Users\TRIDEEP CHAKRABORTY\Downloads\SeleniumFrameworkDesign\SeleniumFrameworkDesign\src\main\java\rahulshettyacademy\resources\GlobalData.properties (The system cannot find the path specified)
+
+tearDown(rahulshettyacademy.tests.SubmitOrderTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.close()" because "this.driver" is null
+
